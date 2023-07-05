@@ -42,7 +42,7 @@
 fetch('https://weatherapi-com.p.rapidapi.com/sports.json?q=London', {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '1KDxGdBr5hmshl8fxHpkskBvWwd9p1e2skQjsnO4QHYH1fcjpP',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
     },
 }).then((response) => {
