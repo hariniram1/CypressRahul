@@ -1,0 +1,5 @@
+{
+  "name": "Using fixtures to represent data",
+  "gender": "Female",
+  "productname":["Nokia Edge","Samsung Note 8","Blackberry"]
+}
