@@ -53,3 +53,5 @@ fetch('https://weatherapi-com.p.rapidapi.com/sports.json?q=London', {
             resultObject.football.map((stadium) => console.log(`${stadium.stadium} is in ${stadium.country}`))
      });
 });
+
+//sample code
